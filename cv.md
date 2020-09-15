@@ -1,20 +1,21 @@
 EVGENII MURATOV
-==============
+===============
 
--------------------     ----------------------------
+    
 E-mail : evgeniimuratov12@gmail.com
 Telegram : @jauhien12
--------------------     ----------------------------
+
+-------------------     
 
 Summary
----------
+-------
 Сurrently working remotely as a full stack developer at Maxburst inc, developing websites using CMS Wordpress
 My goal is to get more experience in the frontend, and learn new things.
 
 ----------
 
 Skills
------------
+------
 
 * _HTML_
 * _CSS_
@@ -30,13 +31,14 @@ Skills
 ----------
 
 Code Samples
------------
+------------
 My test place - Online store of materials for laminated floors
 **[github.com/EvgeniiMuratov/dela_remonta](https://github.com/EvgeniiMuratov/dela_remonta)**
 
 -----------
+
 Experience
----------
+----------
 **[www.nytent.com](https://www.nytent.com/)**
 
 * Frontend and backend site development using ACF for admin side. 
@@ -67,8 +69,9 @@ Education
 2019
 :   IntexSoft Course of JavaScript
 
-----------------------------------------
+---------
+
 Languages
------------
+---------
 * English  pre-intermediate
 * Russian  native
