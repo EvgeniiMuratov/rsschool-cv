@@ -29,7 +29,8 @@ Skills
 
 Code Samples
 -----------
-
+My test place - Online store of materials for laminated floors
+**[github.com/EvgeniiMuratov/dela_remonta](https://github.com/EvgeniiMuratov/dela_remonta)**
 
 -----------
 Experience
@@ -50,7 +51,7 @@ Experience
 * Сreating an exhibition filter using AJAX.
 * Developing solution for dynamic exhibitions gallery.
 
-Technologies used in these projects :
+Technologies used in these projects:
 Wordpress, PHP, JQuery, Bootstrap, Invision, Asana, Adobe XD
 --------------------
 
