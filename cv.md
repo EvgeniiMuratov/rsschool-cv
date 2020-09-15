@@ -2,8 +2,8 @@ EVGENII MURATOV
 ==============
 
 -------------------     ----------------------------
-E-mail                              evgeniimuratov12@gmail.com
-Telegram                            @jauhien12
+E-mail : evgeniimuratov12@gmail.com
+Telegram : @jauhien12
 -------------------     ----------------------------
 
 Summary
