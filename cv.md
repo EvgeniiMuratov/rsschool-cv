@@ -25,6 +25,7 @@ Skills
 * _GULP_
 * _Bootstrap_
 * _Wordpress_
+* _Node.JS_
 
 ----------
 
