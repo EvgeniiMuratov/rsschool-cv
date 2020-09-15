@@ -3,6 +3,7 @@ EVGENII MURATOV
 
 -------------------     ----------------------------
 E-mail                              evgeniimuratov12@gmail.com
+Telegram                            @jauhien12
 -------------------     ----------------------------
 
 Summary
@@ -53,7 +54,8 @@ Experience
 
 Technologies used in these projects:
 Wordpress, PHP, JQuery, Bootstrap, Invision, Asana, Adobe XD
---------------------
+
+--------
 
 Education
 ---------
